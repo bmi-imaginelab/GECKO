@@ -71,7 +71,7 @@ Reported research was partially supported by the National Institutes of Health (
 If you find our work useful in your research or if you use parts of this code please consider citing our [paper](https://arxiv.org/abs/2504.01009):
 
 ```
-@article{kapse2025geckogigapixelvisionconceptcontrastive,
+@article{kapse2025gecko,
   title={GECKO: Gigapixel Vision-Concept Contrastive Pretraining in Histopathology},
   author={Kapse, Saarthak and Pati, Pushpak and Yellapragada, Srikar and Das, Srijan and Gupta, Rajarsi R and Saltz, Joel and Samaras, Dimitris and Prasanna, Prateek},
   journal={arXiv preprint arXiv:2504.01009},
