@@ -8,8 +8,10 @@
 
 Official code for our work [GECKO: Gigapixel Vision-Concept Contrastive Pretraining in Histopathology](https://arxiv.org/abs/2504.01009)
 
+Accepted in ICCV 2025 (Highlight Poster) 🎉🎉
+
 ![teaser figure](./teaser.jpg)
-## Requirements
+## Requirements  
 To install python dependencies, 
 
 ```
